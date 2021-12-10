@@ -1,0 +1,7 @@
+{
+  "name": "rushia-bot",
+  "description": "Simple WhatsApp Bot",
+  "repository": "https://github.com/hazaku-rei/rei-wabot",
+  "logo": "https://avatars.githubusercontent.com/u/77354457?v=4",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+}
